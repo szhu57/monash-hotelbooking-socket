@@ -19,12 +19,12 @@ Degin and implementation of a Hotel Booking Broker. A Hotel Booking Broker is an
 
 +  Book a room at a hotel. Completing the booking request should include the user submitting the following information: check-in date, check-out date, guest’s name, contact (phone or e-mail address), and credit card number. You should decide on appropriate valid values.
 
-+ a typical 3-tier system with presentation, logic and database handled separately.(along with HOOP protocol), the Database which i used id MySql.
++ A typical 3-tier system with presentation, logic and database handled separately.(along with HOOP protocol), the Database which i used id MySql.
 
 ## System Architecture
 
 ![architecture](/images/architecture.png)
-if you want to know more, please refer to the [documentation](http://github.com/szhu57/monash-hotelbooking-socket/documetation.pdf)
+if you want to know more, please refer to the [documentation](/documetation.pdf)
 
 ##About athor
 + Name: Shuai ZHU
@@ -36,4 +36,4 @@ if you want to know more, please refer to the [documentation](http://github.com/
 	*SSH: 'git@github.com:szhu57/monash-hotelbooking-socket.git'
 
 ## How to get 
- operation example:$ git clone [http://github.com/szhu57/monash-hotelbooking-socket](http://github.com/szhu57/monash-hotelbooking-socket.git
+ operation example:$ git clone [http://github.com/szhu57/monash-hotelbooking-socket](http://github.com/szhu57/monash-hotelbooking-socket.git)
